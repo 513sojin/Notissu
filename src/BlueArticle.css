@@ -1,0 +1,153 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+.phone{
+    position: absolute;
+    left: 1014px;
+    top: 162px;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.1));
+}
+
+.speaker{
+    position: absolute;
+    left: 187px;
+    top:162px;
+}
+
+.poly_1{
+    position: absolute;
+    left: 600px;
+    top:100px;
+}
+
+.poly_4{
+    position: absolute;
+    left: 130px;
+    top:480px;
+}
+
+.poly_6{
+    position: absolute;
+    left: 300px;
+}
+
+.poly_7{
+    position: absolute;
+    left: 1400px;
+}
+
+.poly_7_2{
+    position: absolute;
+    left: 810px;
+    top:870px;
+}
+
+.poly_5{
+    position: absolute;
+    left: 1550px;
+    top:550px;
+}
+
+.logo{
+    position: absolute;
+    width: 64px;
+    height: 70px;
+    left:56px;
+    top:40px;
+}
+
+.Notissu{
+    position: absolute;
+    left: 130px;
+    top: 52px;
+    
+    font-family:"Noto Sans KR";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 47px;
+    letter-spacing :0.5px;
+    color: #FFFFFF;
+}
+
+.ment{
+    position: absolute;
+    width: 254px;
+    height: 272px;
+    left: 218px;
+    top: 373px;
+    font-family:"Noto Sans KR";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 92px;
+    line-height: 136px;
+    color: #FFFFFF;
+}
+
+.ment2{ 
+    position: absolute;
+    left: 218px;
+    top: 670px;
+}
+
+.google{
+    position: absolute;
+    width: 317px;
+    height: 87px;
+    left: 222px;
+    top: 829px;
+
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 15px;
+}
+
+.apple{
+    position: absolute;
+    width: 317px;
+    height: 87px;
+    left: 602px;
+    top: 829px;
+    
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 15px;
+}
+
+.google_img{
+    position: absolute;
+    top: 17px;
+    left: 30px;
+}
+
+.apple_img{
+    position: absolute;
+    top:13px;
+    left: 50px;
+}
+
+.apple_ment{
+    position: absolute;
+    left: 120px;
+    top: 17px;
+
+    font-family: "Noto Sans KR";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 44px;
+    
+    color: #FFFFFF;
+}
+
+.google_ment{
+    position: absolute;
+    left: 110px;
+    top: 17px;
+    font-family: "Noto Sans KR";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 44px;
+    text-decoration: none;
+    color: #FFFFFF;
+}

@@ -1,0 +1,146 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+.gray_article{
+    position: absolute;
+    width: 1920px;
+    height: 1252px;
+    left: 0px;
+    top: 991px;
+
+    background: #F7F7F7;
+    box-shadow: 0px -10px 10px rgba(0, 0, 0, 0.03);
+    border-radius: 50px 50px 0px 0px;
+}
+.notissuImage{
+    position: absolute;
+    width: 94px;
+    height: 94px;
+    left: 1055px;
+    top: 480px;
+}
+.vector1{
+    position: absolute;
+    width: 136px;
+    height: 136px;
+    left: 1111px;
+    top: 110px;
+}
+.vector2{
+    position: absolute;
+    width: 118px;
+    height: 118px;
+    left: 1102px;
+    top: 139px;
+}
+.vector3{
+    position: absolute;
+    left: 153px;
+    top:952px;
+}
+.vector4{
+    position: absolute;
+    left: 176px;
+    top: 948px;
+}
+.vector5{
+    position: absolute;
+    left: 1642.41px;
+    top: 1057.32px;
+}
+.vector6{
+    position: absolute;
+    left: 1662.56px;
+    top: 1080.82px;    
+}
+.text{
+    position: absolute;
+    width: 1615px;
+    height: 71px;
+    left: 190px;
+    top: 54px;
+
+    font-family: "Noto Sans KR";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 46px;
+    line-height: 71px;
+
+    letter-spacing: 0.4em;
+
+    color: #484848;
+}
+
+.poly_8{
+    position: absolute;
+    left: 55px;
+    top: 226px;
+}
+
+.iPhone1{
+    position: absolute;
+    width: 329px;
+    height: 669px;
+    left: 268px;
+    top: 182px;
+
+    filter: drop-shadow(-10px -10px 15px rgba(0, 0, 0, 0.03));
+}
+
+.iPhone2{
+    position: absolute;
+    width: 483px;
+    height: 963px;
+    left: 445px;
+    top: 238px;
+    filter: drop-shadow(-10px -10px 10px rgba(0, 0, 0, 0.03));
+}
+
+.poly_2{
+    position: absolute;
+    left: 834px;
+    top: 350px;
+}
+
+.ment_1{
+    position: absolute;
+    left: 1055px;
+    top: 586px;
+    
+    font-family: "Noto Sans KR";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 60px;
+    line-height: 89px;
+    letter-spacing: 0.1em;
+    color: #484848;
+}
+
+.ment_2{
+    position: absolute;
+    left: 1055px;
+    top: 675px;
+    
+    font-family: "Noto Sans KR";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 89px;
+    letter-spacing: 0.1em;
+    
+    color: #484848;
+}
+
+.ment_3{
+    position: absolute;
+    left: 1055px;
+    top: 764px;
+    
+    font-family: "Noto Sans KR";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 60px;
+    line-height: 89px;
+    letter-spacing: 0.1em;
+    color: #484848;
+}
+

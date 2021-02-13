@@ -1,0 +1,74 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+.footer{
+    position: absolute;
+    width: 1920px;
+    height: 484px;
+    left: 0px;
+    top: 2243px;
+
+    background: #DFDFDF;
+}
+
+.urssuLogo{
+    position: absolute;
+    width: 127px;
+    height: 127px;
+    left: 91px;
+    top: 56px;   
+}
+
+.yourssu{
+    position: absolute;
+    width: 237px;
+    height: 74px;
+    left: 99px;
+    top: 150px;
+
+    font-family: "Noto Sans KR";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 74px;
+    color: rgba(0, 0, 0, 0.6);
+}
+.normal{
+    font-weight: 500; 
+}
+.intro{
+    position: absolute;
+    left: 99px;
+    top: 243px;
+
+    font-family: "Noto Sans KR";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 44px;
+
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.facebook{
+    position: absolute;
+    width: 67px;
+    height: 67px;
+    left: 1497px;
+    top: 86px;
+}
+
+.instagram{
+    position: absolute;
+    width: 67px;
+    height: 67px;
+    left: 1621px;
+    top: 86px;
+}
+
+.kakao{
+    position: absolute;
+    width: 67px;
+    height: 67px;
+    left: 1745px;
+    top: 86px;
+}
