@@ -2,68 +2,76 @@
 
 .gray_article{
     position: absolute;
-    width: 1920px;
-    height: 1252px;
+    width: 100vw;
+    height: 125.2rem;
     left: 0px;
-    top: 991px;
-
+    top: 99.1rem;
     background: #F7F7F7;
-    box-shadow: 0px -10px 10px rgba(0, 0, 0, 0.03);
-    border-radius: 50px 50px 0px 0px;
+    box-shadow: 0rem -1rem 1rem rgba(0, 0, 0, 0.03);
+    border-radius: 5rem 5rem 0rem 0rem;
 }
+
 .notissuImage{
     position: absolute;
-    width: 94px;
-    height: 94px;
-    left: 1055px;
-    top: 480px;
+    width: 9.4rem;
+    height: 9.4rem;
+    left: 105.5rem;
+    top: 48rem;
 }
 .vector1{
     position: absolute;
-    width: 136px;
-    height: 136px;
-    left: 1111px;
-    top: 110px;
+    width: 14.3rem;
+    height: 14.3rem;
+    left: 111.1rem;
+    top: 11rem;
 }
 .vector2{
     position: absolute;
-    width: 118px;
-    height: 118px;
-    left: 1102px;
-    top: 139px;
+    width: 12.5rem;
+    height: 12.5rem;
+    left: 110rem;
+    top: 13.9rem;
 }
 .vector3{
     position: absolute;
-    left: 153px;
-    top:952px;
+    width: 8.4rem;
+    height: 15.1rem;
+    left: 15.3rem;
+    top:95.2rem;
 }
 .vector4{
     position: absolute;
-    left: 176px;
-    top: 948px;
+    width: 7.4rem;
+    height: 13.3rem;
+    left: 17.6rem;
+    top: 94.8rem;
 }
 .vector5{
     position: absolute;
-    left: 1642.41px;
-    top: 1057.32px;
+    width: 16.6rem;
+    height: 5.4rem;
+    left: 164.2rem;
+    top: 105.7rem;
 }
 .vector6{
     position: absolute;
-    left: 1662.56px;
-    top: 1080.82px;    
+    width: 14.5rem;
+    height: 4.9rem;
+    left: 166.2rem;
+    top: 108rem;    
 }
 .text{
     position: absolute;
-    width: 1615px;
-    height: 71px;
-    left: 190px;
-    top: 54px;
+    width: 161.5rem;
+    height: 7.1rem;
+    left: 19rem;
+    top: 5.4rem;
 
     font-family: "Noto Sans KR";
     font-style: normal;
     font-weight: 500;
-    font-size: 46px;
-    line-height: 71px;
+    font-size: 4.6rem;
+    line-height: 7.1rem;
 
     letter-spacing: 0.4em;
 
@@ -72,59 +80,63 @@
 
 .poly_8{
     position: absolute;
-    left: 55px;
-    top: 226px;
+    width: 42.5rem;
+    height: 41.8rem;
+    left: 5.5rem;
+    top: 22.6rem;
 }
 
 .iPhone1{
     position: absolute;
-    width: 329px;
-    height: 669px;
-    left: 268px;
-    top: 182px;
+    width: 32.9rem;
+    height: 66.9rem;
+    left: 26.8rem;
+    top: 18.2rem;
 
     filter: drop-shadow(-10px -10px 15px rgba(0, 0, 0, 0.03));
 }
 
 .iPhone2{
     position: absolute;
-    width: 483px;
-    height: 963px;
-    left: 445px;
-    top: 238px;
+    width: 48.3rem;
+    height: 96.3rem;
+    left: 44.5rem;
+    top: 23.8rem;
     filter: drop-shadow(-10px -10px 10px rgba(0, 0, 0, 0.03));
 }
 
 .poly_2{
     position: absolute;
-    left: 834px;
-    top: 350px;
+    width: 94.5rem;
+    height: 94.5rem;
+    left: 83.4rem;
+    top: 35rem;
 }
 
 .ment_1{
     position: absolute;
-    left: 1055px;
-    top: 586px;
+    left: 105.5rem;
+    top: 58.6rem;
     
     font-family: "Noto Sans KR";
     font-style: normal;
     font-weight: 500;
-    font-size: 60px;
-    line-height: 89px;
+    font-size: 6rem;
+    line-height: 8.9rem;
     letter-spacing: 0.1em;
     color: #484848;
 }
 
 .ment_2{
     position: absolute;
-    left: 1055px;
-    top: 675px;
+    left: 105.5rem;
+    top: 67.5rem;
     
     font-family: "Noto Sans KR";
     font-style: normal;
     font-weight: 700;
-    font-size: 60px;
-    line-height: 89px;
+    font-size: 6rem;
+    line-height: 8.9rem;
     letter-spacing: 0.1em;
     
     color: #484848;
@@ -132,14 +144,14 @@
 
 .ment_3{
     position: absolute;
-    left: 1055px;
-    top: 764px;
+    left: 105.5rem;
+    top: 76.4rem;
     
     font-family: "Noto Sans KR";
     font-style: normal;
     font-weight: 500;
-    font-size: 60px;
-    line-height: 89px;
+    font-size: 6rem;
+    line-height: 8.9rem;
     letter-spacing: 0.1em;
     color: #484848;
 }

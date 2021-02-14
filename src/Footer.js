@@ -4,6 +4,7 @@ import urssuLogo from  './footer/urssu_logo.png'
 import kakao from './footer/kakao.png';
 import instagram from './footer/instagram.png';
 import facebook from './footer/facebook.png';
+import './BlueArticle.css';
 
 function Footer(){
     return (

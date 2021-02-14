@@ -11,6 +11,7 @@ import vector_6 from './gray_article/Vector 4 (2).png';
 import iPhone1 from './gray_article/LL_iPhone11-Mockup_Angle1 1.png';
 import iPhone2 from './gray_article/LL_iPhone11-Mockup_Angle1 2.png';
 import notissuImage from './gray_article/Intersect.png';
+import './BlueArticle.css';
 
 function GrayArticle(){
     return(

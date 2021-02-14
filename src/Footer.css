@@ -2,34 +2,33 @@
 
 .footer{
     position: absolute;
-    width: 1920px;
-    height: 484px;
-    left: 0px;
-    top: 2243px;
-
+    width: 100vw;
+    height: 48.4rem;
+    left: 0rem;
+    top: 224rem;
     background: #DFDFDF;
 }
 
 .urssuLogo{
     position: absolute;
-    width: 127px;
-    height: 127px;
-    left: 91px;
-    top: 56px;   
+    width: 12.7rem;
+    height: 12.7rem;
+    left: 9.1rem;
+    top: 5.6rem;   
 }
 
 .yourssu{
     position: absolute;
-    width: 237px;
-    height: 74px;
-    left: 99px;
-    top: 150px;
+    width: 23.7rem;
+    height: 7.4rem;
+    left: 9.9rem;
+    top: 15rem;
 
     font-family: "Noto Sans KR";
     font-style: normal;
     font-weight: bold;
-    font-size: 50px;
-    line-height: 74px;
+    font-size: 5rem;
+    line-height: 7.4rem;
     color: rgba(0, 0, 0, 0.6);
 }
 .normal{
@@ -37,38 +36,38 @@
 }
 .intro{
     position: absolute;
-    left: 99px;
-    top: 243px;
+    left: 9.9rem;
+    top: 24.3rem;
 
     font-family: "Noto Sans KR";
     font-style: normal;
     font-weight: 600;
-    font-size: 30px;
-    line-height: 44px;
+    font-size: 3rem;
+    line-height: 4.4rem;
 
     color: rgba(0, 0, 0, 0.6);
 }
 
 .facebook{
     position: absolute;
-    width: 67px;
-    height: 67px;
-    left: 1497px;
-    top: 86px;
+    width: 6.7rem;
+    height: 6.7rem;
+    left: 149.7rem;
+    top: 8.6rem;
 }
 
 .instagram{
     position: absolute;
-    width: 67px;
-    height: 67px;
-    left: 1621px;
-    top: 86px;
+    width: 6.7rem;
+    height: 6.7rem;
+    left: 162.1rem;
+    top: 8.6rem;
 }
 
 .kakao{
     position: absolute;
-    width: 67px;
-    height: 67px;
-    left: 1745px;
-    top: 86px;
+    width: 6.7rem;
+    height: 6.7rem;
+    left: 174.5rem;
+    top: 8.6rem;
 }
