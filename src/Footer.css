@@ -2,13 +2,14 @@
 
 .footer{
     position: absolute;
-    width: 100vw;
-    height: 48.4rem;
+    height: 484px;
     left: 0rem;
     top: 224rem;
     background: #DFDFDF;
 }
-
+.footerWrap{
+    width: 1706px;
+}
 .urssuLogo{
     position: absolute;
     width: 12.7rem;

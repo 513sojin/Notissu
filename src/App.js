@@ -3,14 +3,15 @@ import BlueArticle from './BlueArticle';
 import React from 'react';
 import GrayArticle from './GrayArticle';
 import Footer from './Footer';
+import './BlueArticle.css';
 
 function App() {
   return (
-    <div>
+    <>
       <BlueArticle/>
       <GrayArticle/>
       <Footer/>
-    </div>
+    </>
   );
 }
 

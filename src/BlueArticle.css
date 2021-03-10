@@ -1,9 +1,7 @@
 @import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
 .blue_article{
-    position: relative;
-    width: 100vw;
-    height: 272.6rem;
-    background: #44599F;
+    height: 991px;
+    width:1706px;
 }
 
 .phone{
@@ -177,21 +175,3 @@
     text-decoration: none;
     color: #FFFFFF;
 }
-
-@media (max-width: 769px){
-    html{
-        font-size: 4px;
-    }
-}
-
-@media (min-width: 770px) and (max-width: 1200px) {
-    html {
-      font-size: 55% !important;
-    }
-}
-
-@media (min-width: 1200px) {
-    html {
-      font-size: 55%;
-    }
-  }

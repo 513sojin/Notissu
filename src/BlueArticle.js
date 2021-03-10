@@ -44,23 +44,22 @@ function BlueArticle(){
     return(
         <>
             <div className="blue_article">
-                <div className="size">
                     <img className="logo" src={logo} alt='logo'/>
                     <div className="Notissu">NOTISSU</div>
-                    <img className="poly_6" src={poly_6} alt='poly'/>
-                    <img className="poly_4" src={poly_4} alt='poly'/>
-                    <img className="poly_1" src={poly_1} alt='poly'/>
-                    <img className="poly_5" src={poly_5} alt='poly'/>
-                    <img className="phone" src={phone} alt='phone'/>
-                    <img className="poly_7" src={poly_7} alt='poly'/>
-                    <img className="poly_7_2" src={poly_7_2} alt='poly'/>
-                    <img className="speaker" src={speaker} alt='speaker'/>
-                    <div className="ment">숭실의<br></br>모든</div>
-                    <img className="ment2" src={ment2} alt='ment'/>
-                    <Google/>
-                    <Apple/>
-                </div>
-               
+                    <div className="size">
+                        <img className="poly_6" src={poly_6} alt='poly'/>
+                        <img className="poly_4" src={poly_4} alt='poly'/>
+                        <img className="poly_1" src={poly_1} alt='poly'/>
+                        <img className="poly_5" src={poly_5} alt='poly'/>
+                        <img className="phone" src={phone} alt='phone'/>
+                        <img className="poly_7" src={poly_7} alt='poly'/>
+                        <img className="poly_7_2" src={poly_7_2} alt='poly'/>
+                        <img className="speaker" src={speaker} alt='speaker'/>
+                        <div className="ment">숭실의<br></br>모든</div>
+                        <img className="ment2" src={ment2} alt='ment'/>
+                        <Google/>
+                        <Apple/>
+                    </div>
             </div>
         </>
     );

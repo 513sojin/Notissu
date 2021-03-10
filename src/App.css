@@ -5,11 +5,9 @@
 }
 
 html, body{
-    width: 100vw;
-    height: 272.6rem;
     font-size: 55%;
+    background-color: #44599F;
 }
 
 body{ -ms-overflow-style: none; } 
 ::-webkit-scrollbar { display: none; }
-

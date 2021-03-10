@@ -2,15 +2,17 @@
 
 .gray_article{
     position: absolute;
-    width: 100vw;
-    height: 125.2rem;
-    left: 0px;
+    height: 1252px;
     top: 99.1rem;
+    left:0rem;
     background: #F7F7F7;
     box-shadow: 0rem -1rem 1rem rgba(0, 0, 0, 0.03);
     border-radius: 5rem 5rem 0rem 0rem;
 }
 
+.grayWrap{
+    width:1706px;
+}
 .notissuImage{
     position: absolute;
     width: 9.4rem;
